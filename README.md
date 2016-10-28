@@ -1,0 +1,2 @@
+# OS_MultistageFeedbackQueue
+OS多级反馈队列javascript实现,利用bootstrap和jquery的选择器进行简单的选择标签，js控制算法。
