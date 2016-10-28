@@ -1,0 +1,50 @@
+.curent {
+
+    background-color:green;
+    color: #FFF;
+}
+.os ul {
+    list-style-position: outside;
+    list-style-type: none;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+.os ul li {
+    padding: 10px;
+    margin-right: 10px;
+    border: thin solid red;;
+
+    float: left;
+    margin-bottom: 5px;
+}
+.os {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.os form {
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    color: #06F;
+}
+body {
+    background-color:#777;
+}
+.main{
+  background-color: #6f5499;
+  border-radius: 5px;
+}
+.pname{
+  margin-right: 60px;
+
+}
+.tname{
+  margin-right: 60px;
+  margin-left: 80px
+}
+.footerspan{
+  margin: auto;
+}
